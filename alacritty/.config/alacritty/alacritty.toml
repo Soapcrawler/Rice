@@ -1,0 +1,32 @@
+[colors.primary]
+background = '#282828'
+foreground = '#ebdbb2'
+
+[colors.normal]
+black   = '#3c3836'
+red     = '#cc241d'
+green   = '#98971a'
+yellow  = '#d79921'
+blue    = '#458588'
+magenta = '#b16286'
+cyan    = '#689d6a'
+white   = '#f6e7f1'
+
+[colors.bright]
+black   = '#282828'
+red     = '#fb4934'
+green   = '#b8bb26'
+yellow  = '#fabd2f'
+blue    = '#83a598'
+magenta = '#d3869b'
+cyan    = '#8ec07c'
+white   = '#f6e7f1'
+
+[font]
+normal = {family = 'JetBrainsMono Nerd Font', style = 'Regular'}
+size   = 13
+offset = {y = 2}
+
+[window]
+padding = {x = 15, y = 15}
+opacity = 0.8
