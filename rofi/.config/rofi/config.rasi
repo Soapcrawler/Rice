@@ -1,0 +1,14 @@
+configuration {
+  modes: [ drun ];
+  font : "JetBrainsMono Nerd Font Medium 18";
+  display-drun: "";
+  show-icons : true;
+
+}
+
+@theme "gruvbox-dark"
+
+
+
+
+
