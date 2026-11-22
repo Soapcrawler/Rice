@@ -16,6 +16,6 @@
 | **Dotfile Manager** | [GNU Stow](https://www.gnu.org/software/stow/) | - |
 
 
-Installation
+##Installation
 ```bash
 sudo pacman -S git stow qtile picom alacritty rofi fastfetch
