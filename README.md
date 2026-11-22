@@ -2,8 +2,6 @@
 
 > My personal X11 Linux desktop configuration, managed with GNU Stow.
 
-![Desktop Showcase](assets/screenshot.png)
-
 ## 🛠️ The Stack
 
 | Category | Tool | Config Path |
@@ -14,8 +12,3 @@
 | **App Launcher** | [Rofi](https://github.com/davatorium/rofi) | `rofi/.config/rofi` |
 | **System Info** | [Fastfetch](https://github.com/fastfetch-cli/fastfetch) | `fastfetch/.config/fastfetch` |
 | **Dotfile Manager** | [GNU Stow](https://www.gnu.org/software/stow/) | - |
-
-
-##Installation
-```bash
-sudo pacman -S git stow qtile picom alacritty rofi fastfetch
