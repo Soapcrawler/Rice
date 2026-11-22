@@ -2,7 +2,7 @@
 >My own repository for storing rice dots :)
 # 🖥️ dotfiles
 
-> My personal X11 Linux desktop configuration, managed with GNU Stow.
+> My personal x11 Linux desktop configuration, managed with GNU Stow.
 
 ![Desktop Showcase](assets/screenshot.png)
 
@@ -19,10 +19,6 @@
 
 ## 🚀 Installation
 
-> **⚠️ Warning:** Back up your existing `~/.config` directories before running `stow` to avoid symlink conflicts.
-
-### 1. Prerequisites
-Ensure you have `git`, `stow`, and the core packages installed on your system (e.g., on Arch Linux):
 
 ```bash
 sudo pacman -S git stow qtile picom alacritty rofi fastfetch
